@@ -1,4 +1,4 @@
-# 🎭 Emotion AI — Text Emotion Classifier
+# 🎭 Emotion AI - Text Emotion Classifier
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.38-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
