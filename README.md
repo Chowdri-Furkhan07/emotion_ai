@@ -32,7 +32,7 @@ It started as a 40-line proof-of-concept script and was refactored into a layere
 - **Batch analysis via CSV upload** - classify up to 200 rows at once (e.g. reviews, survey responses, support tickets) and export results as CSV
 - **Low-confidence flagging** - surfaces uncertainty instead of presenting a weak prediction as a confident answer
 - **Session history** - tracks every analysis run within the current session
-- **Graceful error handling** — model load failures, oversized input, and malformed CSVs are caught and shown as clear user-facing messages, not raw stack traces
+- **Graceful error handling** - model load failures, oversized input, and malformed CSVs are caught and shown as clear user-facing messages, not raw stack traces
 - **24 unit tests** covering validation, formatting, and the inference engine, using a mocked model so the suite runs without GPU access or a model download
 
 ## Architecture
