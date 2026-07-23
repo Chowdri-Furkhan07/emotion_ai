@@ -152,4 +152,5 @@ Released under the [MIT License](LICENSE).
 ## Author
 
 **Chowdri Furkhan**
+
 [GitHub](https://github.com/Chowdri-Furkhan07) · [LinkedIn](https://linkedin.com/in/chowdri-furkhan/)
