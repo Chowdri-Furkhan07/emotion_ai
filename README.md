@@ -60,7 +60,7 @@ emotion-ai-classifier/
 
 - `core/engine.py` never imports `streamlit`, so it can be unit-tested with a mocked model in milliseconds
 - `core/utils.py` has zero dependency on Streamlit or transformers — pure functions in, pure values out
-- `app.py` contains no bare `try/except` blocks — it only ever catches the typed `ValidationError`, `InferenceError`, and `ModelLoadError` raised by the lower layers
+- `app.py` contains no bare `try/except` blocks - it only ever catches the typed `ValidationError`, `InferenceError`, and `ModelLoadError` raised by the lower layers
 
 ## Design Decisions
 
